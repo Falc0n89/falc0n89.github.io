@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[link](https://github.com/Falc0n89/JS-projects-from-CodeCademy/blob/master/Number%20Guesser/index.html)
+
 You can use the [editor on GitHub](https://github.com/Falc0n89/falc0n89.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
