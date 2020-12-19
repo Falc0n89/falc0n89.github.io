@@ -9,9 +9,9 @@
 
 <h2>JavaScript Projects</h2>
 
-[Number Guesser Game](https://falc0n89.github.io/JS-projects-from-CodeCademy/Number%20Guesser/index.html)
+Here you can click the link and it will take you to a project page where you can view each project in its complete form, or view the code in the repository.
 
 [JS Small Projects Collection](https://falc0n89.github.io/JS-projects-from-CodeCademy/)
 
-[Rock Paper Scissors x99 Game](https://falc0n89.github.io/rock-paper-scissors-99/index.html)
+
 
