@@ -1,8 +1,8 @@
 <h1>Hello, world!</h1>
 
 
-[link](https://Falc0n89.github.io/HTML-and-CSS-playgrounds/Dasmotos%20Arts%20and%20Crafts/Index.html)
+[Dasmoto's Arts and Crafts Website Project](https://Falc0n89.github.io/HTML-and-CSS-playgrounds/Dasmotos%20Arts%20and%20Crafts/Index.html)
 
-[link](https://falc0n89.github.io/JS-projects-from-CodeCademy/Number%20Guesser/index.html)
+[Number Guesser Game](https://falc0n89.github.io/JS-projects-from-CodeCademy/Number%20Guesser/index.html)
 
-[link](https://github.com/Falc0n89/JS-projects-from-CodeCademy/blob/master/Number%20Guesser/index.html)
+[JS Small Projects Collection](https://falc0n89.github.io/JS-projects-from-CodeCademy/)
