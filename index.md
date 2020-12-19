@@ -1,7 +1,7 @@
-<h1>Hello, world!</h1>
+###Hello, world!
 
 
-<h2>Web sites</h2>
+##Web sites
 
 [Excursion App landing page mockup](https://falc0n89.github.io/Excursion/index.html)
 
