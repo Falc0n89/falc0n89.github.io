@@ -6,3 +6,5 @@
 [Number Guesser Game](https://falc0n89.github.io/JS-projects-from-CodeCademy/Number%20Guesser/index.html)
 
 [JS Small Projects Collection](https://falc0n89.github.io/JS-projects-from-CodeCademy/)
+
+[Rock Paper Scissors x99 Game](https://Falc0n89.github.io/rock-paper-scissors-99/index.html)
