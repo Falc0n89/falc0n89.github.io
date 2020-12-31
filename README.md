@@ -3,6 +3,8 @@
 
 <h2>Web sites</h2>
 
+[Tea Cozy Website: Flexbox practice](https://falc0n89.github.io/tea-cozy/index.html)
+
 [Fotomatic camera product home page](https://falc0n89.github.io/Fotomatic/index.html)
 
 [Excursion App landing page mockup](https://falc0n89.github.io/Excursion/index.html)
