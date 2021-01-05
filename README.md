@@ -3,9 +3,9 @@
 
 <h2>Web sites</h2>
 
-[Colmar Academy Website](https://falc0n89.github.io/Colmar/)
+[Colmar Academy Website: Web and mobile versions](https://falc0n89.github.io/Colmar/)
 
-<p>This was a capstone project, where I had to build both a regular and mobille version of the site. <br> I'm super proud of this one!</p>
+<p>This was a capstone project, where I had to build both a regular and mobille version of the site. <br> I'm super proud of this one! I need to go back and add in more breakpoints to make it a bit nicer looking though.</p>
 
 [Tea Cozy Website: Flexbox practice](https://falc0n89.github.io/tea-cozy/index.html)
 
