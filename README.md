@@ -3,6 +3,10 @@
 
 <h2>Web sites</h2>
 
+[Colmar Academy Website](https://falc0n89.github.io/Colmar/)
+
+<h3>This was a capstone project, where I had to build both a regular and mobille version of the site. <br> I'm super proud of this one!</h3>
+
 [Tea Cozy Website: Flexbox practice](https://falc0n89.github.io/tea-cozy/index.html)
 
 [Fotomatic camera product home page](https://falc0n89.github.io/Fotomatic/index.html)
