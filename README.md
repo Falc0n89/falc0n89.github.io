@@ -1,6 +1,6 @@
 <h1>Hello, world!</h1>
 
-<h2>Please go [Here](https://falc0n89.github.io/) to see a full HTML website of my projects!</h2>
+<h2>Please go</h2> [Here](https://falc0n89.github.io/) <h2>to see a full HTML website of my projects!</h2>
 
 
 <h2>Web sites</h2>
