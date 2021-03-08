@@ -1,7 +1,9 @@
 .header {
+    background-color: bisque;
     grid-area: header;
   }
   .main {
+      background-color: cadetblue;
     grid-area: main;
   }
   .aside {
