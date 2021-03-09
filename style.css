@@ -10,15 +10,17 @@
     grid-area: sidebar;
   }
   .footer {
+      background-color: cyan;
+    text-align: center;
     grid-area: footer;
   }
   
-  .container {
+  .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr 1fr 2fr;
+    grid-template-rows: 20vh 60vh 10vh;
     grid-template-areas: 
       "header header header header"
-      "main main . sidebar"
+      "main main main sidebar"
       "footer footer footer footer";
   }
