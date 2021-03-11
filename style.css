@@ -1,3 +1,5 @@
+
+
 .header {
     background-color: bisque;
     grid-area: header;
@@ -18,9 +20,24 @@
   .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 2fr;
-    grid-template-rows: 20vh 60vh 10vh;
+    grid-template-rows: 15vh 75vh 10vh;
     grid-template-areas: 
       "header header header header"
       "main main main sidebar"
       "footer footer footer footer";
+  }
+
+  .webList {
+    line-height: 1.5;
+    font-size: large;
+  }
+
+  .webList li a {
+    list-style: circle;
+    text-decoration: none;
+    color: black;
+  }
+
+  .webList a:hover {
+    color: coral;
   }
