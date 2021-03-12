@@ -134,13 +134,10 @@ header {
     align-content: left;
   }
 
-
   .webList {
     line-height: 1.5;
     
   }
-
-  
 
   .webList a:hover {
     color: coral;
