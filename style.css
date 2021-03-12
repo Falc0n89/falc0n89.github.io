@@ -15,6 +15,7 @@ h1, h2 {
 }
 
 header {
+  opacity: 80%;
   display: flex;
   position: fixed;
   z-index: 3000;
@@ -26,6 +27,12 @@ header {
   height: 10%;
   }
 
+  .banner h1 {
+    animation: fadeIn ease 5s;
+    -webkit-animation: fadeIn ease 5s;
+  }
+
+  
 
   .banner {
     grid-area: hero;
@@ -138,6 +145,31 @@ header {
   .webList a:hover {
     color: coral;
   }
+
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
 
   @media only screen and (max-width: 925px) {
     .grid {
