@@ -1,26 +1,78 @@
 
 
-.header {
-    background-color: bisque;
+body {
+  background-color: white;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+    background-color: rgb(245, 241, 241);
     grid-area: header;
+    align-items: center;
+    padding-left: 20px;
   }
-  .main {
-      background-color: cadetblue;
+
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     grid-area: main;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
   }
-  .aside {
-    grid-area: sidebar;
-  }
-  .footer {
-      background-color: cyan;
+
+  main h2 {
     text-align: center;
+  }
+
+  aside {
+    grid-area: sidebar;
+    display: flex;
+    flex-flow: column;
+    padding-bottom: 20px;
+    align-items: center;
+  }
+
+  aside img {
+    margin-top: 10px;
+    height: 50%; 
+    object-fit: contain;
+    
+  }
+
+  aside a {
+    padding-left: 20px;
+  }
+
+  button {
+    align-self: center;
+    width: 30%;
+  }
+
+  footer {
+    display: flex;
+    background-color: rgb(245, 241, 241);
     grid-area: footer;
+    align-items: center;
+    justify-content: right;
+    padding-right: 20px;
+  }
+
+  footer p {
+    margin: 0;
+    color: dimgray;
+  }
+
+  .bi-twitter {
+    font-size: 2rem;
   }
   
   .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 2fr;
-    grid-template-rows: 15vh 75vh 10vh;
+    grid-template-rows: 10% 80% 10%;
     grid-template-areas: 
       "header header header header"
       "main main main sidebar"
@@ -32,12 +84,44 @@
     font-size: large;
   }
 
-  .webList li a {
-    list-style: circle;
+  a {
     text-decoration: none;
-    color: black;
   }
 
   .webList a:hover {
     color: coral;
+  }
+
+  @media only screen and (max-width: 925px) {
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 2fr;
+      grid-template-rows: 10% 80% 10%;
+      grid-template-areas: 
+        "header header header header"
+        "main main main main"
+        "footer footer footer footer";
+    }
+
+    body {
+      height: 100%;
+    }
+
+    main {
+      padding-right: 30px;
+      padding-left: 30px;
+    }
+
+    img {
+      display: none;
+    }
+
+    aside a {
+      display: none;
+    }
+
+    footer {
+      padding-bottom: 0px;
+    }
+
   }
